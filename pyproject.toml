@@ -1,0 +1,10 @@
+[project]
+name = "digit-recognition-password-lock"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=7.1.0",
+    "opencv-python>=4.12.0.88",
+    "tensorflow>=2.20.0",
+]
